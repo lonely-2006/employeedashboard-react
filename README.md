@@ -9,13 +9,6 @@ A simple employee dashboard UI built with React/HTML to list and manage employee
 - Search and basic filtering (if implemented)
 - Mobile-friendly design
 
-## Demo
-
-Add screenshots or a link to a live demo here once available.
-
-## Getting Started
-
-These instructions assume this is a frontend project that can be served with a static server or run with a Node.js development server if a package.json is present.
 
 ### Prerequisites
 
@@ -81,4 +74,3 @@ Specify a license for your project, e.g., MIT. If you don't have one yet, add a 
 
 Maintainer: lonely-2006
 
-If you'd like any changes to this README (more details, badges, or setup tailored to the repo), tell me what to include and I'll update it.
