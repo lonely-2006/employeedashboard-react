@@ -56,15 +56,7 @@ yarn build
 ## Project Structure
 
 - index.html - Main entry HTML file
-- /assets - Images, icons, and static assets
-- /css - Stylesheets
-- /js - JavaScript or React source files
 
-Adjust the structure to match your repository's actual layout.
-
-## Contributing
-
-Contributions are welcome. Please open an issue to discuss changes or submit a pull request with a clear description of changes.
 
 ## License
 
