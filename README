@@ -1,0 +1,24 @@
+# Employee Dashboard
+
+A very simple frontend for viewing employee information. Static HTML/CSS/JS files make up this project.
+
+## Quick start
+
+- Open `index.html` in your browser, or serve the folder with a static server:
+
+```bash
+# serve from current directory
+npx serve .
+```
+
+## Structure
+
+- `index.html` — main page
+- `css/` — styles
+- `js/` — scripts
+- `assets/` — images and icons
+
+## Notes
+
+- No backend required for the static UI.
+- Add package.json/build steps if you convert this to a React app.
